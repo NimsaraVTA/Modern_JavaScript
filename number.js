@@ -26,3 +26,6 @@ console.log(result9);
 
 let result10=(num-=5);
 console.log(result10);
+
+let result11=(num/'abc');
+console.log(result11);
